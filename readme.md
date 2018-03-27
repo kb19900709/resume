@@ -5,7 +5,7 @@
 - 4+ years Java enterprise development experience  
 - 2+ years Scrum project experience  
 - 1+ years Java development team leader experience  
-Familiar with core Java platform, Spring framework, design RESTful API and version control with Git. Experience with Angular and Typescript.  
+Familiar with core Java platform, Spring framework, design RESTful API, Maven, version control with Git. Experience with Angular, Typescript, Jenkins.  
 Strong communication skills, both written and verbal. Ability to collaborate with high-performing teams and individuals throughout the firm to accomplish common goals.
 
 # Skill Highlights
@@ -23,6 +23,7 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
 - Other
     - Git, Git Flow
     - Scrum
+    - Jenkins
 
 # Major Experiences
 **Java Engineer** in **Digital Data & Technology**  
