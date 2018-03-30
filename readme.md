@@ -27,12 +27,12 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
 
 # Major Experiences
 **Java Engineer** in **Digital Data & Technology**  
-**Cathay Financial Holdings** 02/2018 to current 
+**[Cathay Financial Holdings](https://goo.gl/PyTTJt)** 02/2018 to current 
 - Maintain mobile banking system and optimize performance
 - Work closely with others companies to conclude tasks
 - Deeply understand Spring Cloud and tune the environment include Spring Cloud config and maven pom structure
 
-**Java Engineer** at **ThinkPower** 05/2016 to 01/2018
+**Java Engineer** at **[ThinkPower](https://goo.gl/w4AaTT)** 05/2016 to 01/2018
 - Java Team Leader in [Richart App](https://richart.tw/) project at Taishin Bank
     - In two period, 06/2016 to 06/2017 and 10/2017 to 01/2018
     - Followed Agile development and consistently delivered new features on time during sprints
@@ -50,7 +50,7 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
     - Data migration via Java (Stream, CompletableFuture)
     - Avoided duplicate transactions via Spring AOP
 
-**Java Engineer** at **Readycom** 04/2014 to 04/2016
+**Java Engineer** at **[Readycom](https://goo.gl/uY72xP)** 04/2014 to 04/2016
 - Java Engineer at HOLA
     - 10/2015 to 02/2016
     - Implemented administration system，developed over JSP, jQuery and Spring MVC
