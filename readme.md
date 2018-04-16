@@ -5,9 +5,9 @@
 - 4+ years Java enterprise development experience  
 - 2+ years Scrum project experience  
 - 1+ years Java development team leader experience  
+- [My GitHub](https://github.com/kb19900709)  
 Familiar with core Java platform, Spring framework, design RESTful API, Maven, version control with Git. Experience with Angular, Typescript, Jenkins.  
 Strong communication skills, both written and verbal. Ability to collaborate with high-performing teams and individuals throughout the firm to accomplish common goals.  
-[My GitHub](https://github.com/kb19900709)  
 
 # Skill Highlights
 - Back-End
