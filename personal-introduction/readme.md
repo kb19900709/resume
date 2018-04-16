@@ -1,6 +1,6 @@
 # Personal Introduction
-Hi, my name is **KB**.Liao. I'm from Taipei, Taiwan. I received a **bachelor**'s degree from National United University in 2012. Now I'm a **java** application engineer in Digital Data & Technology of Cathay Financial Holdings, my duty is to maintain our mobile banking system and optimize performance.  
+Hi, my name is **KB.Liao**. I'm from Taipei, Taiwan. I graduated from [National United University](https://goo.gl/ywA2cZ) in 2012. Now I'm a **java** application engineer in Digital Data & Technology of Cathay Financial Holdings, my duty is to maintain our mobile banking system and optimize performance based on our issues.
 
-I really like my occupation, immerse in programming, enjoy the processes of resolving problem. I'm familiar with **Java(8)**, **Spring**, **Hibernate**, **Maven**, **Git**, these standard abilities for java programmer.  
+I really like my occupation, immerse in programming, enjoy the processes of resolving problem. I've dedicated my best efforts in learning new soft skills for a long time and try to use them in proper project to prove the feasibility of knowledge. I'm familiar with **Java(8)**, **Spring**, **Hibernate**, **Maven**, **Git**, these standard abilities for java programmer.  
 
-The most important experience in my career is to build a **cache system** over a custom design which was implemented by **Spring AOP** and Annotations when I worked at Taishin Bank, I saved their **performance** of Enterprise Application Integration about **30 percent off**, this number was from their IT Department through a rough count.
+The most important experience in my career is to build a **cache system** over a custom design which was implemented by **Spring AOP** and annotation-driven when I worked at Taishin Bank, I saved their **performance** of EAI about **30 percent off**, this number was from their IT Department through a rough count.  
