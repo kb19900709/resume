@@ -2,11 +2,11 @@
 ###### **Neihu Dist., Taipei City 114, Taiwan** | **0952061572** | **kb19900709@gmail.com** 
 
 # Summary
-- 4+ years Java enterprise development experience  
+- 4+ years commercial Java development experience  
 - 2+ years Scrum project experience  
 - 1+ years Java development team leader experience  
 - [My GitHub](https://github.com/kb19900709)  
-Familiar with core Java platform, Spring framework, design RESTful API, Maven, version control with Git. Experience with Angular, Typescript, Jenkins.  
+Familiar with core Java platform, Spring framework, design RESTful API, Maven, Jenkins, version control with Git. Experience of using Angular to build a SPA website.  
 Strong communication skills, both written and verbal. Ability to collaborate with high-performing teams and individuals throughout the firm to accomplish common goals.  
 
 # Skill Highlights
@@ -29,7 +29,7 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
 # Major Experiences
 **Java Engineer** in **Digital Data & Technology**  
 **[Cathay Financial Holdings](https://goo.gl/PyTTJt)** 02/2018 to current 
-- Maintain mobile banking system and optimize performance
+- Maintain mobile banking system and optimize performance based on our issues
 - Work closely with others companies to conclude tasks
 - Deeply understand Spring Cloud and tune the environment include Spring Cloud config and maven pom structure
 
@@ -40,16 +40,16 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
     - Custom design for cache system via Spring AOP and Annotations
     - Built messages exchange engine (Socket, HTTP/JSON) for Foreign Currency system, Transaction Security Platform
     - Developed SOAP Web Services Client
-    - Designed multiple credit cards management dashboard API
+    - Designed multiple credit cards management dashboard APIs
     - Provided expertise with building high performance and maintainable system
     - Fixed urgent issues
     - Responsible for code review
 - Java Engineer in [Online Banking](https://internet-banking.dbs.com.tw/) project at DBS Bank
     - 07/2017 to 09/2017
-    - Worked in a small Agile team environment with daily scrum
-    - Designed administration system API
+    - Worked in a small Agile team environment with daily Scrum
+    - Designed administration system APIs
     - Data migration via Java (Stream, CompletableFuture)
-    - Avoided duplicate transactions via Spring AOP
+    - Avoided duplicate transaction behaviors via Spring AOP
 
 **Java Engineer** at **[Readycom](https://goo.gl/uY72xP)** 04/2014 to 04/2016
 - Java Engineer at HOLA
