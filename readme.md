@@ -1,5 +1,5 @@
 # **KB** Liao
-###### **Neihu Dist., Taipei City 114, Taiwan** | **0952061572** | **kb19900709@gmail.com** 
+###### **Neihu Dist., Taipei City 114, Taiwan** | **kb19900709@gmail.com** 
 
 # Summary
 - 4+ years commercial Java development experience  
@@ -30,15 +30,15 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
 **Java Engineer** in **Digital Data & Technology**  
 **[Cathay Financial Holdings](https://goo.gl/PyTTJt)** 02/2018 to current 
 - Maintain mobile banking system and optimize performance based on our issues
-- Work closely with others companies to conclude tasks
-- Deeply understand Spring Cloud and tune the environment include Spring Cloud config and maven pom structure
+- Work closely with other companies to conclude tasks
+- Deeply understand Spring Cloud and tune the environment including Spring Cloud config and maven pom structure
 
 **Java Engineer** at **[ThinkPower](https://goo.gl/w4AaTT)** 05/2016 to 01/2018
 - Java Team Leader in [Richart App](https://richart.tw/) project at Taishin Bank
     - In two period, 06/2016 to 06/2017 and 10/2017 to 01/2018
     - Followed Agile development and consistently delivered new features on time during sprints
     - Custom design for cache system via Spring AOP and Annotations
-    - Built messages exchange engine (Socket, HTTP/JSON) for Foreign Currency system, Transaction Security Platform
+    - Built messages exchange engines (Socket, HTTP/JSON) for Foreign Currency system, Transaction Security Platform
     - Developed SOAP Web Services Client
     - Designed multiple credit cards management dashboard APIs
     - Provided expertise with building high performance and maintainable system
@@ -49,7 +49,7 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
     - Worked in a small Agile team environment with daily Scrum
     - Designed administration system APIs
     - Data migration via Java (Stream, CompletableFuture)
-    - Avoided duplicate transaction behaviors via Spring AOP
+    - Avoided duplicate transaction behavior via Spring AOP
 
 **Java Engineer** at **[Readycom](https://goo.gl/uY72xP)** 04/2014 to 04/2016
 - Java Engineer at HOLA
