@@ -6,7 +6,7 @@
 - 2+ years Scrum project experience  
 - 1 year and 4 months Java development team leader experience  
 - [My GitHub](https://github.com/kb19900709)  
-Familiar with core Java platform, Spring framework, design RESTful API, Maven, Jenkins, version control with Git. Experience of using Angular to build a SPA website.  
+Familiar with core Java platform, design pattern, Spring framework, design RESTful API, Maven, Jenkins, Git. Experience of using Angular to build a SPA website.  
 Strong communication skills, both written and verbal. Ability to collaborate with high-performing teams and individuals throughout the firm to accomplish common goals.  
 
 # Skill Highlights
