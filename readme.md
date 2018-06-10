@@ -27,9 +27,8 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
     - Jenkins
 
 # Major Experiences
-**Java Engineer** in **Digital Data & Technology**  
-**[Cathay Financial Holdings](https://goo.gl/PyTTJt)** 02/2018 to current 
-- Maintain mobile banking system and optimize performance based on our issues
+**Java Engineer** at **[Cathay Financial Holdings](https://goo.gl/PyTTJt)** 02/2018 to 05/2018   
+- Maintain mobile banking system and optimize performance based on the issues
 - Work closely with other companies to conclude tasks
 - Deeply understand Spring Cloud and tune the environment including Spring Cloud config and maven pom structure
 
@@ -38,7 +37,7 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
     - In two period, 06/2016 to 06/2017 and 10/2017 to 01/2018
     - Followed Agile development and consistently delivered new features on time during sprints
     - Developed custom design of cache system via Spring AOP and Annotations
-    - Developed custom SOAP Web Services Client
+    - Developed custom SOAP Web Services client
     - Developed custom messages exchange engines (Socket, HTTP/JSON) for Foreign Currency system, Transaction Security Platform
     - Designed multiple credit cards management dashboard APIs
     - Provided expertise with building high performance and maintainable system
