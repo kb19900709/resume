@@ -32,12 +32,12 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
 - Developed a slot game which is called [Da Hong Bao](http://www.genesis-games.com/result.php?keyword=Da%20Hong%20Bao)
 - Developed tournament microservice
 - Developed notification-center microservice 
-- For monitor reasons, developed performance log feature and embedded it into important endpoints via Spring AOP and Annotations.
+- For monitor reasons, developed performance log feature and embedded it into important endpoints via Spring AOP and Annotations
 - Mainly maintained jackpot, report, and gateway microservice
 - Maintained documents on [JIRA](https://www.atlassian.com/software/jira)
 - Supported test script via [pytest](http://docs.pytest.org/en/latest/) (**python**)
 - Supported load testing via [gatling](https://gatling.io/docs/2.2/) with gatling-maven-plugin (**scala**)
-- As an interviewer who is responsible for jr engineer.
+- As an interviewer who is responsible for jr engineer
   
 **Java Engineer** in **[Cathay Financial Holdings](https://www.cathayholdings.com/en/holdings/intro/intro/about)** 02/2018 to 05/2018   
 - Maintained mobile banking system and optimized performance based on the issues
