@@ -2,7 +2,7 @@
 ###### **Neihu Dist., Taipei City 114, Taiwan** | **kb19900709@gmail.com** 
 
 # Summary
-- 5+ years commercial Java development experience (since 2014) 
+- 5+ years commercial Java development experience (since 2014) 
 - 3+ years Scrum project experience  
 - 1 year and 4 months Java development team leader experience  
 - [My GitHub](https://github.com/kb19900709)  
@@ -28,16 +28,16 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
 
 # Major Experiences
 **Java Engineer** at **[Genesis Gaming](http://www.genesis-games.com)** 06/2018 to current
-- Worked in a small Agile team environment with daily Scrum
-- Developed a slot game which is called [Da Hong Bao](http://www.genesis-games.com/result.php?keyword=Da%20Hong%20Bao)
+- Worked in a small Agile team environment with daily Scrum
+- Developed a slot game which is called [Da Hong Bao](http://www.genesis-games.com/result.php?keyword=Da%20Hong%20Bao)
 - Developed tournament microservice
 - Developed notification-center microservice 
-- For monitor reasons, developed performance log feature and embedded it into important endpoints via Spring AOP and Annotations
+- For monitor reasons, developed performance log feature and embedded it into important endpoints via Spring AOP and Annotations
 - Mainly maintained jackpot, report, and gateway microservice
-- Maintained documents on [JIRA](https://www.atlassian.com/software/jira)
+- Maintained documents on [JIRA](https://www.atlassian.com/software/jira)
 - Supported test script via [pytest](http://docs.pytest.org/en/latest/) (**python**)
 - Supported load testing via [gatling](https://gatling.io/docs/2.2/) with gatling-maven-plugin (**scala**)
-- As an interviewer who is responsible for jr engineer
+- As an interviewer who is responsible for jr engineer
   
 **Java Engineer** in **[Cathay Financial Holdings](https://www.cathayholdings.com/en/holdings/intro/intro/about)** 02/2018 to 05/2018   
 - Maintained mobile banking system and optimized performance based on the issues
