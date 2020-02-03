@@ -44,7 +44,7 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
 - Worked closely with other companies to conclude tasks
 - Deeply understood Spring Cloud and tuned the environment including Spring Cloud config and maven pom structure
 
-**Java Engineer** in **[ThinkPower](https://goo.gl/w4AaTT)** 05/2016 to 01/2018
+**Java Engineer** in **[ThinkPower](https://www.thinkpower.info/)** 05/2016 to 01/2018
 - Java Team Leader in [Richart App](https://richart.tw/) project at [Taishin Bank](https://mkp.taishinbank.com.tw/s/2020/181201/index.html)
     - In two period, 06/2016 to 06/2017 and 10/2017 to 01/2018
     - Followed Agile development and consistently delivered new features on time during sprints
