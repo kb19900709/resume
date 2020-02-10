@@ -2,6 +2,8 @@
 ###### **Neihu Dist., Taipei City 114, Taiwan** | **kb19900709@gmail.com** 
 
 # Summary
+- Bachelor of Electronic Engineering，06/2012  
+National United University
 - 5+ years commercial Java development experience (since 2014) 
 - 3+ years Scrum project experience  
 - 1 year and 4 months Java development team leader experience  
@@ -27,7 +29,7 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
     - Postman
 
 # Major Experiences
-**Java Engineer** at **[Genesis Gaming](http://www.genesis-games.com)** 06/2018 to current
+**Java Engineer** at **[Genesis Gaming](http://www.genesis-games.com)** 06/2018 to present
 - Worked in a small Agile team environment with daily Scrum
 - Developed a slot game which is called [Da Hong Bao](http://www.genesis-games.com/result.php?keyword=Da%20Hong%20Bao)
 - Developed tournament microservice
@@ -69,7 +71,3 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
     - 10/2014 to 10/2015
     - Followed specifications and implemented features
     - Used ZK to build a smooth internal transaction system
-
-# Education
-Bachelor of Electronic Engineering，06/2012  
-National United University
