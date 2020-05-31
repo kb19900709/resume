@@ -4,17 +4,17 @@
 # Summary
 - Bachelor of Electronic Engineering，06/2012  
 National United University
-- 5+ years commercial Java development experience (since 2014) 
-- 3+ years Scrum project experience  
+- 6+ years commercial Java development experience (since 2014) 
+- 4+ years Scrum project experience  
 - 1 year and 4 months Java development team leader experience  
 - [My GitHub](https://github.com/kb19900709)  
-Familiar with core Java platform, design pattern, Spring framework and related solutions, RESTful API, Maven, Git. Experience of using Angular to build a SPA website. 
+Familiar with core Java platform, design pattern, Spring framework and related solutions, RESTful API, Maven, Git. Experience of Angular, Typescript.
 Strong communication skills, both written and verbal. Ability to collaborate with high-performing teams and individuals throughout the firm to accomplish common goals.
 
 # Skill Highlights
 - Back-End
     - Java(8)
-    - Spring, Spring Boot, Spring Cloud
+    - Spring, Spring Boot, Spring Cloud (microservices)
     - Hibernate, MyBatis
     - ZK
 - Front-End
@@ -25,20 +25,21 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
 - Other
     - Git, Git Flow
     - Maven
+    - Docker
     - Scrum
     - Postman
 
 # Major Experiences
 **Java Engineer** at **[Genesis Gaming](http://www.genesis-games.com)** 06/2018 to present
 - Worked in a small Agile team environment with daily Scrum
-- Developed a slot game which is called [Da Hong Bao](http://www.genesis-games.com/result.php?keyword=Da%20Hong%20Bao)
-- Developed tournament microservice
-- Developed notification-center microservice 
+- Developed tournament, notification-center microservice
+- Mainly maintained jackpot, report, gateway microservice, and random generation server (RGS)
+- Developed a slot game which is called [Da Hong Bao](http://www.genesis-games.com/news_list.php?NID=25)
 - For monitor reasons, developed performance log feature and embedded it into important endpoints via Spring AOP and Annotations
-- Mainly maintained jackpot, report, and gateway microservice
 - Maintained documents on [JIRA](https://www.atlassian.com/software/jira)
 - Supported test script via [pytest](http://docs.pytest.org/en/latest/) (**python**)
 - Supported load testing via [gatling](https://gatling.io/docs/2.2/) with gatling-maven-plugin (**scala**)
+- Documented game client flow (**typescript**)
 - As an interviewer who is responsible for jr engineer
   
 **Java Engineer** in **[Cathay Financial Holdings](https://www.cathayholdings.com/en/holdings/intro/intro/about)** 02/2018 to 05/2018   
