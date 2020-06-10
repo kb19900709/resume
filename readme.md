@@ -34,6 +34,7 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
 - Worked in a small Agile team environment with daily Scrum
 - Developed tournament, notification-center microservice
 - Mainly maintained jackpot, report, gateway microservice, and random generation server (RGS)
+- Redefined and developed slot game flow
 - Developed a slot game which is called [Da Hong Bao](http://www.genesis-games.com/news_list.php?NID=25)
 - For monitor reasons, developed performance log feature and embedded it into important endpoints via Spring AOP and Annotations
 - Maintained documents on [JIRA](https://www.atlassian.com/software/jira)
