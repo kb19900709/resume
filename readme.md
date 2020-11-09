@@ -16,12 +16,10 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
     - Java(8)
     - Spring, Spring Boot, Spring Cloud (microservices)
     - Hibernate, MyBatis
-    - ZK
 - Front-End
     - JavaScript
     - TypeScript
     - jQuery
-    - AngularJS
 - Other
     - Git, Git Flow
     - Maven
@@ -35,13 +33,14 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
 - Developed tournament, notification-center microservice
 - Mainly maintained jackpot, report, gateway microservice, and random generation server (RGS)
 - Redefined and developed slot game flow
-- Developed a slot game which is called [Da Hong Bao](http://www.genesis-games.com/news_list.php?NID=25)
+- Developed a slot game which is called [Da Hong Bao](https://www.genesis-games.com/games/da-hong-bao-gold/)
+- Developed a slot game which is called Lux555, which is still in progress.
 - For monitor reasons, developed performance log feature and embedded it into important endpoints via Spring AOP and Annotations
 - Maintained documents on [JIRA](https://www.atlassian.com/software/jira)
 - Supported test script via [pytest](http://docs.pytest.org/en/latest/) (**python**)
 - Supported load testing via [gatling](https://gatling.io/docs/2.2/) with gatling-maven-plugin (**scala**)
 - Documented game client flow (**typescript**)
-- As an interviewer who is responsible for jr engineer
+- Used to be an interviewer who is responsible for jr engineer
   
 **Java Engineer** in **[Cathay Financial Holdings](https://www.cathayholdings.com/en/holdings/intro/intro/about)** 02/2018 to 05/2018   
 - Maintained mobile banking system and optimized performance based on the issues
