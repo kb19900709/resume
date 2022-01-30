@@ -1,10 +1,10 @@
 # **KB** Liao
-###### **Neihu Dist., Taipei City 114, Taiwan** | **kb19900709@gmail.com** 
+#### **kb19900709@gmail.com** 
 
 # Summary
 - Bachelor of Electronic Engineering，06/2012  
 National United University
-- 7+ years commercial Java development experience (since 2014) 
+- 8+ years commercial Java development experience (since 2014) 
 - 5+ years Scrum project experience  
 - 1 year and 4 months Java development team leader experience  
 - [My GitHub](https://github.com/kb19900709)  
@@ -29,12 +29,10 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
 
 # Major Experiences
 **Senior Java Engineer** at **[Innova Solutions](https://www.innovasolutions.com)** 01/2021 to present
-- Used Kanban Board for workflow visualization
-- Maintained a legacy system and optimize the correctness for audit purpose
-- Shared experiences to the junior engineers in my team. Helping them have better vision or idea to address issues is one of my responsibilities
-- Worked in a highly secure working environment because of the company security policy (MFA log in our working device and remotely develop, Oauth2 security mechanism associates with Spring security for core projects)
-- Must be able to know how to work with people. Usually work with people from the USA, India
-- AWS environment. The company encourages us to get AWS certificates, now I'm working on learning AWS. Hopefully, I can get AWS Certified Developer - Associate and AWS Certified Solutions Architect – Associate at the end of the year (2021)
+- Use Kanban Board for visualization of workflow
+- Maintaine as well as optimize system preformance from frontend(Angular) to backend(Java)
+- Share experiences to the junior engineers in my team, help them to grow as soon as possible.
+- Work with people from different countries
 
 **Java Engineer** at **[Genesis Gaming](http://www.genesis-games.com)** 06/2018 to 12/2020
 - Worked in a small Agile team environment with daily Scrum
@@ -43,7 +41,7 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
 - Redefined and developed slot game flow
 - Developed a slot game which is called [Da Hong Bao](https://www.genesis-games.com/games/da-hong-bao-gold/)
 - Developed a slot game which is called [LUXE 555](https://www.genesis-games.com/games/luxe-555/)
-- For monitor reasons, developed performance log feature and embedded it into important endpoints via Spring AOP and Annotations
+- For monitor reasons, developed performance log feature and embedded it into critical endpoints via Spring AOP and Annotations
 - Maintained documents on [JIRA](https://www.atlassian.com/software/jira)
 - Supported test script via [pytest](http://docs.pytest.org/en/latest/) (**python**)
 - Supported load testing via [gatling](https://gatling.io/docs/2.2/) with gatling-maven-plugin (**scala**)
