@@ -6,8 +6,9 @@
 National United University
 - 8+ years commercial Java development experience (since 2014) 
 - 5+ years Scrum project experience  
-- 1 year and 4 months Java development team leader experience  
+- 1 year and 4 months Java development team lead experience  
 - [My GitHub](https://github.com/kb19900709)  
+  
 Familiar with core Java platform, design pattern, Spring framework and related solutions, RESTful API, Maven, Git. Experience of Angular, Typescript.
 Strong communication skills, both written and verbal. Ability to collaborate with high-performing teams and individuals throughout the firm to accomplish common goals.
 
@@ -21,6 +22,7 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
     - TypeScript
     - jQuery
 - Other
+    - [AWS Certified Developer – Associate](https://www.credly.com/badges/fa1d6564-8501-45d7-bffe-8be5bc504dd0?source=linked_in_profile)
     - Git, Git Flow
     - Maven
     - Docker
@@ -30,9 +32,10 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
 # Major Experiences
 **Senior Java Engineer** at **[Innova Solutions](https://www.innovasolutions.com)** 01/2021 to present
 - Use Kanban Board for visualization of workflow
-- Maintaine as well as optimize system preformance from frontend(Angular) to backend(Java)
-- Share experiences to the junior engineers in my team, help them to grow as soon as possible.
+- Add features based on [JIRA](https://www.atlassian.com/software/jira) tickets as well as optimize system preformance from frontend(Angular) to backend(Java)
+- Guide and share experiences to the junior engineers in my team, help them to grow as soon as possible.
 - Work with people from different countries
+- interviewer
 
 **Java Engineer** at **[Genesis Gaming](http://www.genesis-games.com)** 06/2018 to 12/2020
 - Worked in a small Agile team environment with daily Scrum
@@ -46,7 +49,7 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
 - Supported test script via [pytest](http://docs.pytest.org/en/latest/) (**python**)
 - Supported load testing via [gatling](https://gatling.io/docs/2.2/) with gatling-maven-plugin (**scala**)
 - Documented game client flow (**typescript**)
-- Used to be an interviewer who is responsible for jr engineer
+- interviewer
   
 **Java Engineer** in **[Cathay Financial Holdings](https://www.cathayholdings.com/en/holdings/intro/intro/about)** 02/2018 to 05/2018   
 - Maintained mobile banking system and optimized performance based on the issues
