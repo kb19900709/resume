@@ -1,15 +1,15 @@
 # **KB** Liao
-#### **kb19900709@gmail.com** 
+#### **kb19900709@gmail.com**
 
 # Summary
-- Bachelor of Electronic Engineering，06/2012  
+- Bachelor of Electronic Engineering，06/2012
 National United University
-- 8+ years commercial Java development experience (since 2014) 
-- 5+ years Scrum project experience  
-- 1 year and 4 months Java development team lead experience  
-- [My GitHub](https://github.com/kb19900709)  
-  
-Familiar with core Java platform, design pattern, Spring framework and related solutions, RESTful API, Maven, Git. Experience of Angular, Typescript.
+- 8+ years commercial Java development experience (since 2014)
+- 5+ years Scrum project experience
+- 1 year and 4 months Java development team lead experience
+- [My GitHub](https://github.com/kb19900709)
+
+Familiar with core Java platform, design pattern, Spring framework and related solutions, RESTful API, Maven, Git. Experience of Python, Angular, Typescript.
 Strong communication skills, both written and verbal. Ability to collaborate with high-performing teams and individuals throughout the firm to accomplish common goals.
 
 # Skill Highlights
@@ -17,6 +17,7 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
     - Java(8)
     - Spring, Spring Boot, Spring Cloud (microservices)
     - Hibernate, MyBatis
+    - Python(3)
 - Front-End
     - JavaScript
     - TypeScript
@@ -30,12 +31,16 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
     - Postman
 
 # Major Experiences
-**Senior Java Engineer** at **[Innova Solutions](https://www.innovasolutions.com)** 01/2021 to present
-- Use Kanban Board for visualization of workflow
-- Add features based on [JIRA](https://www.atlassian.com/software/jira) tickets as well as optimize system preformance from frontend(Angular) to backend(Java)
-- Guide and share experiences to the junior engineers in my team, help them to grow as soon as possible.
-- Work with people from different countries
-- interviewer
+**Senior Software Engineer** at **[Innova Solutions](https://www.innovasolutions.com)** 02/2022 to present
+- Transfered to the other team, and which works with daily Scrum
+- Most of the responsibilities and required skills are the same as previous team, however, here we use python to build up microservices and run them on AWS
+
+**Senior Java Engineer** at **[Innova Solutions](https://www.innovasolutions.com)** 01/2021 to 02/2022
+- Used Kanban Board for visualization of workflow
+- Added features based on [JIRA](https://www.atlassian.com/software/jira) tickets as well as optimize system preformance from frontend(Angular) to backend(Java)
+- Mentored and shared experiences to the junior engineers in my team, help them to grow as soon as possible
+- Worked with people from different countries
+- Interviewer
 
 **Java Engineer** at **[Genesis Gaming](http://www.genesis-games.com)** 06/2018 to 12/2020
 - Worked in a small Agile team environment with daily Scrum
@@ -50,8 +55,8 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
 - Supported load testing via [gatling](https://gatling.io/docs/2.2/) with gatling-maven-plugin (**scala**)
 - Documented game client flow (**typescript**)
 - interviewer
-  
-**Java Engineer** in **[Cathay Financial Holdings](https://www.cathayholdings.com/en/holdings/intro/intro/about)** 02/2018 to 05/2018   
+
+**Java Engineer** in **[Cathay Financial Holdings](https://www.cathayholdings.com/en/holdings/intro/intro/about)** 02/2018 to 05/2018
 - Maintained mobile banking system and optimized performance based on the issues
 - Worked closely with other companies to conclude tasks
 - Deeply understood Spring Cloud and tuned the environment including Spring Cloud config and maven pom structure
