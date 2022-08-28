@@ -31,7 +31,7 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
     - Postman
 
 # Major Experiences
-**Senior Software Engineer** at **[Innova Solutions](https://www.innovasolutions.com)** 02/2022 to present
+**Senior Software Engineer** at **[Innova Solutions](https://www.innovasolutions.com)** 03/2022 to present
 - Transfered to the other team, and which works with daily Scrum
 - Most of the responsibilities and required skills are the same as previous team, however, here we use python to build up microservices and run them on AWS
 
