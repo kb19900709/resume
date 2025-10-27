@@ -4,34 +4,45 @@
 # Summary
 - Bachelor of Electronic Engineering，06/2012
 National United University
-- 8+ years commercial Java development experience (since 2014)
+- 11+ years of software engineering experience, specializing in SRE, DevOps, and scalable cloud-native architecture. (since 2014)
 - 5+ years Scrum project experience
 - 1 year and 4 months Java development team lead experience
 - [My GitHub](https://github.com/kb19900709)
 
-Familiar with core Java platform, design pattern, Spring framework and related solutions, RESTful API, Maven, Git. Experience of Python, Angular, Typescript.
+Expert SRE Tech Lead focused on **production stability**, **scalability**, and **observability** on **GCP**. Proven ability to lead critical infrastructure migrations (e.g., **VM to GKE**, **ELK to GCP Logging**) and manage high-availability API gateways (**Kong Enterprise**). Leverages a strong technical foundation in **Java (Spring)** and **Python**.
+
 Strong communication skills, both written and verbal. Ability to collaborate with high-performing teams and individuals throughout the firm to accomplish common goals.
 
 # Skill Highlights
+- Cloud & DevOps
+    - Cloud Provider: Google Cloud Platform (GCP)
+    - Containerization: Kubernetes (GKE), Docker
+    - IaC & GitOps: Terraform, ArgoCD, Helm
+    - API Gateway: Kong EE
+    - Observability: GCP Cloud Logging, GCP Monitoring, Cloud Tracing, OpenTelemetry, Grafana
+    - Security: Google Cloud Armor (WAF), Security Command Center
 - Back-End
-    - Java(8)
-    - Spring, Spring Boot, Spring Cloud (microservices)
-    - Hibernate, MyBatis
-    - Python(3)
-- Front-End
-    - JavaScript
-    - TypeScript
-    - jQuery
-- Other
-    - [AWS Certified Developer – Associate](https://www.credly.com/badges/fa1d6564-8501-45d7-bffe-8be5bc504dd0?source=linked_in_profile)
-    - Git, Git Flow
-    - Maven
-    - Docker
-    - Scrum
-    - Postman
+    - Languages: Java (8+), Python (3)
+    - Frameworks: Spring, Spring Boot, Spring Cloud
+- Methodologies
+    - Agile: Scrum, Kanban
+ 
+# Certifications
+- Google Cloud Certified Professional Cloud Architect
+- Google Cloud Certified Associate Cloud Engineer
+- AWS Certified Developer – Associate
 
 # Major Experiences
-**Senior Software Engineer** at **[Innova Solutions](https://www.innovasolutions.com)** 03/2022 to present
+**SRE Tech Lead** at **[WeMo Scooter](https://www.wemoscooter.com)** 10/2022 to current 
+- Lead SRE and infrastructure architecture for all WeMo services on GCP, ensuring production stability, scalability, and developing best practices.
+- Engineered and led the successful migration of the production API Gateway from open-source Kong in VM to Kong Enterprise in GKE.
+- Executed a full migration of the logging system from ELK to GCP Cloud Logging, including developing and conducting engineer training for the new platform.
+- Drove a successful VM-to-Kubernetes migration initiative, modernizing legacy infrastructure by migrating critical services to GKE.
+- Managed critical system-wide upgrades, including upgrading all GKE clusters and Cloud SQL instances.
+- Successfully launched and integrated Google Cloud Armor (WAF) with the API Gateway to enhance system security.
+- Developed key monitoring solutions (GCP and Grafana dashboards) and integrated OpenTelemetry for distributed tracing (Cloud Tracing).
+
+**Senior Software Engineer** at **[Innova Solutions](https://www.innovasolutions.com)** 03/2022 to 10/2022
 - Transfered to the other team, and which works with daily Scrum
 - Most of the responsibilities and required skills are the same as previous team, however, here we use python to build up microservices and run them on AWS
 
