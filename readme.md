@@ -28,9 +28,9 @@ Strong communication skills, both written and verbal. Ability to collaborate wit
     - Agile: Scrum, Kanban
  
 # Certifications
-- Google Cloud Certified Professional Cloud Architect
-- Google Cloud Certified Associate Cloud Engineer
-- AWS Certified Developer – Associate
+- Google Cloud Certified Professional Cloud Architect (06/2024 - 06/2026)
+- Google Cloud Certified Associate Cloud Engineer (02/2023 - 02/2026)
+- AWS Certified Developer – Associate (04/2022 - 04/2025)
 
 # Major Experiences
 **SRE Tech Lead** at **[WeMo Scooter](https://www.wemoscooter.com)** 10/2022 to current 
